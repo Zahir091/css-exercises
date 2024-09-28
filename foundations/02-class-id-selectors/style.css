@@ -1,0 +1,31 @@
+.classtest {
+    background-color: salmon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+#p2 {
+    font-size: 48px;
+    font-weight: 400;
+}
+
+#p3 {
+    font-size: 25px;
+}
+
+#box {
+    font-size: 48px;
+    color:lightskyblue; 
+}
+
+#box2 {
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: 22px;
+}
+ 
